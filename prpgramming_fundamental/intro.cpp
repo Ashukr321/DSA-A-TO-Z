@@ -26,7 +26,7 @@ int main(){
 
 // exmaple
 
-// add two number 
+// add two number⭐
 // diff two number 
 // mul two number 
 // avg two number 
