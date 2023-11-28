@@ -30,7 +30,7 @@ int main(){
 // diff two number ⭐
 // mul two number ⭐
 // avg two number  ⭐
-// circumference of the circle 
+// circumference of the circle  ⭐
 // check number is even or odd 
 // student grade system 
 // check the number is positive negative or zero 
