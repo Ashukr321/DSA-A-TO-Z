@@ -31,7 +31,7 @@ int main(){
 // mul two number ⭐
 // avg two number  ⭐
 // circumference of the circle  ⭐
-// check number is even or odd 
+// check number is even or odd  ⭐
 // student grade system 
 // check the number is positive negative or zero 
 // find perimeter of triangle 
