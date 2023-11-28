@@ -27,8 +27,8 @@ int main(){
 // exmaple
 
 // add two number⭐
-// diff two number 
-// mul two number 
+// diff two number ⭐
+// mul two number ⭐
 // avg two number 
 // circumference of the circle 
 // check number is even or odd 

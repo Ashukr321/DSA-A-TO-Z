@@ -15,6 +15,7 @@ void Number::getNumber(){
   cout<<"Enter the second  number : "<<endl;
   cin>>b;
 }
+
 void Number::diff(){
   if(a ==0 || b == 0 ){
     cout<<"your  have to first give the two number "<<endl;
