@@ -35,7 +35,7 @@ int main(){
 // student grade system  ⭐
 // check the number is positive negative or zero ⭐
 // find perimeter of triangle  ⭐
-// find simple interest 
+// find simple interest ⭐
 // find factorial of number 
 // check prime or not 
 // valid triangle or not 
