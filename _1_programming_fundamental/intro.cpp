@@ -40,9 +40,9 @@ int main(){
 // check prime or not ⭐
 // valid triangle or not  ⭐
 // print 1 to n but only even number ⭐
-// print max of three number 
+// print max of three number ⭐
 // printing counting 1 to n ⭐
 // add n numbers from users ⭐
-// print 1 to n only odd number 
+// print 1 to n only odd number ⭐
 
 
