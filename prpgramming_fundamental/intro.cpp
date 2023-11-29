@@ -33,7 +33,7 @@ int main(){
 // circumference of the circle  ⭐
 // check number is even or odd  ⭐
 // student grade system  ⭐
-// check the number is positive negative or zero 
+// check the number is positive negative or zero ⭐
 // find perimeter of triangle 
 // find simple interest 
 // find factorial of number 
