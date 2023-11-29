@@ -39,7 +39,7 @@ int main(){
 // find factorial of number ⭐
 // check prime or not ⭐
 // valid triangle or not  ⭐
-// print n to n but only even number 
+// print 1 to n but only even number ⭐
 // print max of three number 
 // printing counting 1 to n
 // add n numbers from users 
