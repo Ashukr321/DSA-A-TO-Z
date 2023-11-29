@@ -41,7 +41,7 @@ int main(){
 // valid triangle or not  ⭐
 // print 1 to n but only even number ⭐
 // print max of three number 
-// printing counting 1 to n
+// printing counting 1 to n ⭐
 // add n numbers from users 
 // print 1 to n only odd number 
 
