@@ -36,7 +36,7 @@ int main(){
 // check the number is positive negative or zero ⭐
 // find perimeter of triangle  ⭐
 // find simple interest ⭐
-// find factorial of number 
+// find factorial of number ⭐
 // check prime or not 
 // valid triangle or not 
 // print n to n but only even number 
