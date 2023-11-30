@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 
+//solid  solidRec    
 void solidRec(int r,int c){
   for (int i = 0; i < r; i++)
   {
@@ -12,6 +13,7 @@ void solidRec(int r,int c){
     cout<<endl;
   }
 }
+
 
 // main methods start;
 int main(){ 

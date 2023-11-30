@@ -8,4 +8,4 @@
 
 // 1 example  
 // 2 solid rectangle 
-//
+// 3 hollow rectangle 
