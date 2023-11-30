@@ -10,3 +10,4 @@
 // 2 solid rectangle ⭐
 // 3 hollow rectangle ⭐
 // 4 half pyramid ⭐
+// 5 invert half pyramid ⭐
