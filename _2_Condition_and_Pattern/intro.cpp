@@ -12,3 +12,4 @@
 // 4 half pyramid ⭐
 // 5 invert half pyramid ⭐
 // 6 Number half pyramid ⭐
+// 7 full pyramid 
