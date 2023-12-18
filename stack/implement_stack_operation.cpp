@@ -4,7 +4,9 @@
 using namespace std;
 
 // Implementing the stack using an array
-// Create the class of the Stack 
+// Create the class of the 
+
+
 class Stack {
    int top;
    int arr[size];
@@ -38,6 +40,7 @@ int Stack::peek() {
    return arr[top];
 }
 
+
 void Stack::push(int data) {
    if (isOverflow()) {
       cout << "Stack is full." << endl;
@@ -49,13 +52,16 @@ void Stack::push(int data) {
    cout << data << " is inserted at index: " << top << endl;
 }
 
+
 bool Stack::isUnderflow() {
    return (top == -1);
 }
 
+
 bool Stack::isOverflow() {
    return (top == size - 1);
 }
+
 
 // Main function
 int main() {
@@ -63,9 +69,7 @@ int main() {
    Stack s1;
    s1.push(12);
    s1.push(34);
-
    s1.pop();
-
    int topElement1 = s1.peek();
    if (topElement1 != -1) {
       cout << "Top element of the stack: " << topElement1 << endl;
