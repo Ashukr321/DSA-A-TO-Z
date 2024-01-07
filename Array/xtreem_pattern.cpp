@@ -1,5 +1,6 @@
 // preprocessor
 #include <iostream>
+#include<algorithm>
 using namespace std;
 
 void printXtreem(int arr[], int n)
@@ -24,5 +25,11 @@ int main()
   int arr[] = {10, 20, 30, 40, 50};
   int size = sizeof(arr) / sizeof(int);
   printXtreem(arr, size);
+  
+  string name ="ashtosh";
+  reverse(name.begin(),name.end());
+  cout<<endl;
+  cout<<name<<endl;
+  // here we reverse the number 
   return 0;
 }
